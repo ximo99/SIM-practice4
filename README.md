@@ -1,6 +1,6 @@
 ﻿# Simulation. Practice 4: deformable mesh.
 
- Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. March 2022. Practice 4. Rating 8. A deformable mesh must be simulated using a two-dimensional (2D) mass-spring type structure.
+ Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. April 2022. Practice 4. Rating 8. A deformable mesh must be simulated using a two-dimensional (2D) mass-spring type structure.
 
  - 🎞️ Video with the result (1): https://www.youtube.com/watch?v=Lc3kzKcaf2M
  - 🎞️ Video with the result (2): https://www.youtube.com/watch?v=jnTIbeuZVSs
